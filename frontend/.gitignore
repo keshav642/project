@@ -70,3 +70,6 @@ desktop.ini
 .turbo
 .temp
 .tmp
+#env
+backend/.env
+frontend/.env
