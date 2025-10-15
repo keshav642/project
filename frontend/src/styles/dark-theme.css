@@ -1,0 +1,10 @@
+/* ===== File: styles/dark-theme.css ===== */
+html {
+  background: var(--bg);
+  color: var(--text);
+}
+.card {
+  background: var(--panel);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
